@@ -1,1 +1,2 @@
 Primul meu test Git!
+Invat comenzile Git pas cu pas.Invat sa folosesc comenzi noi
